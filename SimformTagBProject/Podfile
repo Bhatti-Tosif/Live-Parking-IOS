@@ -7,4 +7,12 @@ target 'SimformTagBProject' do
 
   # Pods for SimformTagBProject
   pod 'R.swift'
+  pod 'Bagel', '~>  1.3.2'
+  pod 'Alamofire', '~>  4.8.2' # For Api call
+  pod 'ReachabilitySwift'
+  pod 'SSAppUpdater', '~> 1.1.1'
+  pod 'SSSpinnerButton', '~> 3.0.2' # Button rounded animations.
+  pod 'IQKeyboardManager'
+  pod 'IQKeyboardManagerSwift', '~> 6.3.0' # Allows you to prevent this issue of keyboard sliding up and covering UITextField/UITextView.
+  pod 'SwiftMessages'
 end
