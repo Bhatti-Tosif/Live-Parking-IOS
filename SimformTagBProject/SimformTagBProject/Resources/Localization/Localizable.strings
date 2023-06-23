@@ -1,0 +1,56 @@
+/* 
+  Localizable.strings
+  SimformTagBProject
+
+  Created by Tosif Bhatti on 06/06/23.
+  
+*/
+
+//Applebel Localize
+"appName" = "";
+"loginTitle" = "Customer Login";
+
+// MARK: LoginViewController
+"usernameValidate"          = "Please enter email";
+"passwordValidate"          = "Please enter password";
+"pleaseEnterConfirmPassword"= "Please enter confirm password";
+"pleaseEnterValidEmail"     = "Please enter valid email";
+"passwordMinimumCharacter"  = "Please enter password minimum 8 character";
+"loginTitle"                = "Customer Login";
+"signUpTitle"               = "Customer SignUp";
+"businessTitle"             = "Business";
+"personalTitle"             = "Personal";
+"business"                  = "business";
+"personal"                  = "individual";
+
+//MARK: SignUp ViewController
+"firstNameValidate" = "Please enter first name.";
+"lastNameValidate" = "Please enter last name.";
+"emptyEmailValidate" = "Please enter email.";
+"emptyMobileNumberValidate" = "Please enter mobile number.";
+"mobileNumberValidate" = "Please enter valid mobile number.";
+"passwordValidate" = "Please enter password.";
+"pleaseEnterConfirmPassword" = "Please enter confirm password.";
+"pleaseEnterValidEmail" = "Please enter valid email.";
+
+//MARK: PromoCode
+"txtActive"   = "Active";
+"txtInActive" = "Expired";
+"promocode"   = "Promocode";
+"parking"     = "Parking";
+"leave"       = "Leave";
+"logout"      = "Logout";
+"edit Profile" = "EditProfile";
+"profile"    = "Profile";
+
+//MARK: - Leave Offset
+"noDate" = "No Date";
+"Leave Offset Title" = "Leave Offset";
+"approved"  = "approved";
+"cancelled" = "cancelled";
+"pending"   = "pending";
+
+//MARK: - Constant
+"No User" = "No User";
+
+"success" = "Success";
